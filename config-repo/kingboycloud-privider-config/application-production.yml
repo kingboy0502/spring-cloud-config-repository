@@ -10,7 +10,7 @@ spring:
       username: root
       password: kingboy
   application:
-    name: springcloud-privider-config
+    name: springcloud-provider-config
   profiles:
     active: production
 logging:
