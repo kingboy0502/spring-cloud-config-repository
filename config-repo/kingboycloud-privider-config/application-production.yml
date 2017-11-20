@@ -10,7 +10,7 @@ spring:
       username: root
       password: kingboy
   application:
-    name: springcloud-provider-config
+    name: springcloud-privider-config
   profiles:
     active: production
 logging:
@@ -19,6 +19,6 @@ logging:
     org.hibernate : info
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
     org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
-    com.yasaka.stock : debug
+    com.kingboycloud.provider : debug
 server:
   port: 8100
