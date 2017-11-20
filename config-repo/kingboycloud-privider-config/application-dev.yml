@@ -23,6 +23,6 @@ logging:
     org.hibernate : info
     org.hibernate.type.descriptor.sql.BasicBinder: TRACE
     org.hibernate.type.descriptor.sql.BasicExtractor: TRACE
-    com.kingboycloud : debug
+    com.kingboycloud.provider : debug
 server:
   port: 8100
